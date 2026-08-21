@@ -55,24 +55,24 @@ The analysis transitions from an initial theoretical baseline scenario to a full
 ## 🛠️ Visual Highlights
 
 ### 1. 3D Scene & Shading Modeling
-13 sheds $\times$ 650 modules (2 portrait $\times$ 325) with an 11.0 m pitch spacing to optimize land use while keeping inter-row shading losses minimal.
+13 sheds $\times$ 650 modules with an 11.0 m pitch spacing to optimize land use while keeping inter-row shading losses minimal.
 
 <p align="center">
   <img src="shadings_3d_view.png" alt="3D Shading Scene" width="75%">
 </p>
 
 ### 2. Detailed Loss Diagram (Final Realistic Simulation)
-Comprehensive breakdown of thermal (-3.36%), near-shading (-2.49%), soiling (-1.50%), and BESS conversion losses.
+Comprehensive breakdown of thermal, near-shading, soiling and BESS conversion losses.
 
 <p align="center">
-  <img src="figures/final_loss_diagram.png" alt="Final Loss Diagram" width="55%">
+  <img src="final_loss_diagram.png" alt="Final Loss Diagram" width="55%">
 </p>
 
 ### 3. Financial Cashflows & Sensitivity Analysis
 25-year lifetime financial modeling (70% Debt at 5.50% interest, 30% Equity) evaluating corporate PPA pricing and curtailment risk.
 
 <p align="center">
-  <img src="figures/final_financials.png" alt="Financial Results" width="80%">
+  <img src="final_financials.png" alt="Financial Results" width="80%">
 </p>
 
 ---
@@ -87,7 +87,7 @@ Comprehensive breakdown of thermal (-3.36%), near-shading (-2.49%), soiling (-1.
 ## 📁 Repository Structure
 
 ```text
-├── Final Report.pdf            # Full technical report (compiled from LaTeX)
-├── PVsyst_Report_5MWp.pdf      # Detailed PVsyst simulation export
+├── Final Report.pdf            # Detailed PVsyst simulation export
+├── PVsyst_Report_5MWp.pdf      # Full technical report (compiled from LaTeX)
 ├── figures/                    # High-resolution simulation diagrams & plots
 └── README.md                   # Project landing page & documentation
