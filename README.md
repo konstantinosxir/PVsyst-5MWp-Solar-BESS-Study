@@ -19,7 +19,7 @@
 
 This project investigates the techno-economic optimization of a **5 MWp utility-scale solar PV plant** located in **Karditsa, Greece**. With grid congestion leading to strict injection limits (curtailments), the study evaluates the integration of a **behind-the-meter industrial Battery Energy Storage System (BESS)** operating under a **Peak Shaving** strategy.
 
-The analysis transitions from an initial theoretical baseline scenario to a fully realistic model incorporating **3D Near Shadings (Linear)**, **Detailed Thermal/Ohmic Losses**, and **Project Financing**.
+The analysis transitions from an initial theoretical baseline scenario to a fully realistic model incorporating **3D Near Shadings (Linear)**, **Detailed Thermal/Ohmic Losses** and **Project Financing**.
 
 ---
 
