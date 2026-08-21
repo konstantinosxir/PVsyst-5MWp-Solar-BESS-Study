@@ -1,6 +1,6 @@
 # ☀️ Techno-Economic Design & Simulation of a 5 MWp PV + BESS Utility-Scale Plant
 
-[![PVsyst](https://img.shields.io/badge/Simulation-PVsyst_v7.4-blue.svg)](https://www.pvsyst.com/)
+[![PVsyst](https://img.shields.io/badge/Simulation-PVsyst_v8.1.5-blue.svg)](https://www.pvsyst.com/)
 [![Documentation](https://img.shields.io/badge/Report-LaTeX%20%2F%20XeLaTeX-green.svg)]()
 [![Author](https://img.shields.io/badge/Author-Konstantinos_Xirogiannis-orange.svg)](https://www.linkedin.com/in/konstantinosxirogian/)
 
@@ -10,8 +10,8 @@
 
 ## 📑 Direct Documentation Links
 
-* 📄 **[Download Full Engineering Report (PDF)](./Final%20Report.pdf)**
-* 📊 **[Download PVsyst Simulation Summary (PDF)](./PVsyst_Report_5MWp.pdf)**
+* 📄 **[Download Full Engineering Report (PDF)](./PVsyst_Report_5MWp.pdf)**
+* 📊 **[Download PVsyst Simulation Summary (PDF)](./Final%20Report.pdf)**
 
 ---
 
@@ -79,7 +79,7 @@ Comprehensive breakdown of thermal, near-shading, soiling and BESS conversion lo
 
 ## 🌿 Carbon Footprint & ESG Balance
 
-* **Lifecycle Offset:** **137,863 tons of $\text{CO}_2$** over 30 years.
+* **Lifecycle Offset:** 137,863 tons of **$\text{CO}_2$** over 30 years.
 * **Carbon Payback Time:** The embodied emissions from manufacturing and construction are fully offset within **2.0 years** of operation.
 
 ---
