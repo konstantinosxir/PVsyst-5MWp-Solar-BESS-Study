@@ -4,7 +4,7 @@
 [![Documentation](https://img.shields.io/badge/Report-LaTeX%20%2F%20XeLaTeX-green.svg)]()
 [![Author](https://img.shields.io/badge/Author-Konstantinos_Xirogiannis-orange.svg)](https://www.linkedin.com/in/konstantinosxirogian/)
 
-> **Comprehensive engineering study and financial assessment of a 5.03 MWp grid-connected PV plant equipped with a 3.84 MWh Battery Energy Storage System (BESS) under grid injection constraints in Thessaly, Greece.**
+> **Comprehensive engineering study and financial assessment of a 5 MWp grid-connected PV plant equipped with a Battery Energy Storage System (BESS) under grid injection constraints in Thessaly, Greece.**
 
 ---
 
@@ -17,9 +17,9 @@
 
 ## 📌 Executive Summary
 
-This project investigates the techno-economic optimization of a **5.03 MWp utility-scale solar PV plant** located in **Karditsa, Greece**. With grid congestion leading to strict injection limits (curtailments), the study evaluates the integration of a **behind-the-meter industrial Battery Energy Storage System (BESS)** operating under a **Peak Shaving** strategy.
+This project investigates the techno-economic optimization of a **5 MWp utility-scale solar PV plant** located in **Karditsa, Greece**. With grid congestion leading to strict injection limits (curtailments), the study evaluates the integration of a **behind-the-meter industrial Battery Energy Storage System (BESS)** operating under a **Peak Shaving** strategy.
 
-The analysis transitions from an initial theoretical baseline scenario to a fully realistic model incorporating **3D Near Shadings (Linear)**, **Detailed Thermal/Ohmic Losses**, and **Project Financing (PPA vs Merchant sensitivity)**.
+The analysis transitions from an initial theoretical baseline scenario to a fully realistic model incorporating **3D Near Shadings (Linear)**, **Detailed Thermal/Ohmic Losses**, and **Project Financing**.
 
 ---
 
