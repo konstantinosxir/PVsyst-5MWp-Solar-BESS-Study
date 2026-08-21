@@ -58,7 +58,7 @@ The analysis transitions from an initial theoretical baseline scenario to a full
 13 sheds $\times$ 650 modules (2 portrait $\times$ 325) with an 11.0 m pitch spacing to optimize land use while keeping inter-row shading losses minimal.
 
 <p align="center">
-  <img src="figures/shadings_3d_view.png" alt="3D Shading Scene" width="75%">
+  <img src="shadings_3d_view.png" alt="3D Shading Scene" width="75%">
 </p>
 
 ### 2. Detailed Loss Diagram (Final Realistic Simulation)
